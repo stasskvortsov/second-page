@@ -185,6 +185,12 @@ margin-bottom: 100px;
     float: left;
 
 }
+.info-slider__img1{
+    transform: rotate(180deg);
+}
+.info-slider__img2{
+    transform: rotate(75deg);
+}
 .info-slider__text{
     padding-bottom: 15px;
 }
